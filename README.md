@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey, I'm Alain 😎
+
+I'm a CS student at Ryerson University graduating 2023.
+
+I build interesting projects with purposeful functionality and visually appealing designs. I'm fluent in Java, Python, C#, and TypeScript, but I'm always learning new languages and libraries.
+
+[Aloinn.com](https://www.aloinn.com/) | [LinkedIn](https://www.linkedin.com/in/aloinn) | [DevPost](https://devpost.com/Aloinn)
 
 <!--
 **Aloinn/Aloinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
