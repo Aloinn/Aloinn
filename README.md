@@ -13,7 +13,8 @@ I build interesting projects with purposeful functionality and visually appealin
 - 💡 🏆 Hackathon Ws: [DevPost](https://devpost.com/Aloinn)
 
 
-## 🧰 My toolbox
+<h2 align="center"> 🧰 My toolbox </h3>
+
 #### Languages
 <p>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -149,7 +150,7 @@ I build interesting projects with purposeful functionality and visually appealin
   </p>
 
 
-## 🏆 Github Stats
+<h2 align="center">🏆 Github Stats</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aloinn&show_icons=true&theme=tokyonight)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aloinn&theme=tokyonight) -->
