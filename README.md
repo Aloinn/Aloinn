@@ -3,11 +3,14 @@
 
 ![](https://komarev.com/ghpvc/?username=Aloinn&color=green)
 
-Hey, I'm Alain. I'm a CS student at Ryerson University graduating 2024.
+My name is Alain and I am a student at Toronto Metropolitan University, graduating May 2024.
+Currently, I'm working towards my Bachelor of Science in Computer Science.
 
 I build interesting projects with purposeful functionality and visually appealing designs. I'm fluent in Java, Python, C#, and TypeScript, but I'm always learning new languages and libraries.
 
 ### 📦 More about me
+Vietnamese, first gen Canadian, full-stack software engineer, indie game developer, musician, and board game collector.
+
 - 🧑‍ 💻 About me: [Aloinn.com](https://www.aloinn.com/)
 - 🤵 🤝 Let's chat: [LinkedIn](https://www.linkedin.com/in/aloinn)
 - 💡 🏆 Hackathon Ws: [DevPost](https://devpost.com/Aloinn)
