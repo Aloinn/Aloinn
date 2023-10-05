@@ -15,7 +15,7 @@ Available on iOS,
 ### 📦 More about me
 Vietnamese, first gen Canadian, full-stack software engineer, indie game developer, musician, and board game collector.
 
-- 🧑‍ 💻 About me: [Aloinn.com](https://www.aloinn.com/)
+- 🧑‍ 💻 About me: [AlainNguyen.com](https://www.alainnguyen.com/)
 - 🤵 🤝 Let's chat: [LinkedIn](https://www.linkedin.com/in/aloinn)
 - 💡 🏆 Hackathon Ws: [DevPost](https://devpost.com/Aloinn)
 
