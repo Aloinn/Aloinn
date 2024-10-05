@@ -1,21 +1,16 @@
 <h1 align="center">👋 Hey, I'm Alain 😎 </h1>
-<h3 align="center">Full Stack Software Engineer + Blockchain Enthusiast </h3>
+<h3 align="center">Full Stack Software Engineer </h3>
 
 ![](https://komarev.com/ghpvc/?username=Aloinn&color=green)
 
-My name is Alain and I am a student at Toronto Metropolitan University, graduating May 2024.
-Currently, I'm working towards my Bachelor of Science in Computer Science.
+I graduated TMU with a Bachelor's of Science in Computer Science.
 
-I build interesting projects with purposeful functionality and visually appealing designs. I'm fluent in Java, Python, C#, and TypeScript, but I'm always learning new languages and libraries.
-
-### 🎮 Download my game!
-Available on iOS,
-[Cityblocks](https://apps.apple.com/ca/app/city-blocks/id1619844612)
+I'm fluent in Java, Python, C#, and TypeScript, but I'm always learning new languages and libraries.
 
 ### 📦 More about me
 Vietnamese, first gen Canadian, full-stack software engineer, indie game developer, musician, and board game collector.
 
-- 🧑‍ 💻 About me: [AlainNguyen.com](https://www.alainnguyen.com/)
+- 🧑‍ 💻 About me: [AlainNguyen.com](https://www.alainnguyen.ca/)
 - 🤵 🤝 Let's chat: [LinkedIn](https://www.linkedin.com/in/aloinn)
 - 💡 🏆 Hackathon Ws: [DevPost](https://devpost.com/Aloinn)
 
